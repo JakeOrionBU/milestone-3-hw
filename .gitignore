@@ -1,0 +1,7 @@
+# Ignore dotenv config
+.env
+
+# Ignore virtual environments
+venv/
+.env/
+
